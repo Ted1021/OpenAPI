@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OpenAPI</string>
+    <string name="toolbar_boxoffice">박스오피스</string>
+    <string name="toolbar_detail">영화</string>
 </resources>
