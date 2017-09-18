@@ -2,4 +2,13 @@
     <string name="app_name">OpenAPI</string>
     <string name="toolbar_boxoffice">박스오피스</string>
     <string name="toolbar_detail">영화</string>
+    <string name="movie_item_audience_count">총 관람객 수</string>
+
+    <string name="kofic_api_key">71cd9a6592ef09f2d81b2711b39e044b</string>
+    <string name="naver_movie_api_id">yENwphZG7JRv01mCY0F8</string>
+    <string name="naver_movie_api_secret">_3ktvDPiRT</string>
+
+    <string name="KOBIS_URL">http://www.kobis.or.kr/</string>
+    <string name="NAVER_URL">https://openapi.naver.com</string>
+
 </resources>
